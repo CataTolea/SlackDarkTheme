@@ -7,7 +7,7 @@ Original Author: Bryan Keller (https://github.com/widget-)
    --primary: #FFFFFF;
    --text: #FFFFFF;
    --background: #222;
-   --background-elevated: #222;
+   --background-elevated: #111;
 
    /* These should be less important: */
    --background-hover: rgba(255, 255, 255, 0.1);
