@@ -17,7 +17,7 @@ Original Author: Bryan Keller (https://github.com/widget-)
    --border-dim: #666;
    --border-bright: var(--primary);
    
-   --color-mention: #A4CD5F;
+   --color-mention: #ff0000;
    --badge-background: var(--color-mention);
    --background-group-mention: var(--color-mention);
    --text-channel-unread: var(--color-mention);
